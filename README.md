@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **Java, C#, ReactJs**
 
-- 📫 How to reach me **yagmurustel@gmail.com**
+- 📫 How to reach me  <a href="mailto:yagmurustel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Email" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
