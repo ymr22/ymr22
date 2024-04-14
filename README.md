@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Neucha&size=26&duration=1000&pause=3000&color=FFFFFF&background=BF45A800&center=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Ya%C4%9Fmur+%C3%9Cstel" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Neucha&size=26&duration=1000&pause=4000&repeat=false&color=FFFFFF&background=BF45A800&center=true&random=false&width=1000&lines=A+passionate+software+developer+from+Turkey." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Neucha&size=26&duration=1000&pause=4000&repeat=false&color=FFFFFF&background=BF45A800&center=true&random=false&width=1000&lines=A+passionate+software+developer+both+in+classical+and+quantum+computers." alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ymr22&label=Profile%20views&color=blueviolet&style=flat" alt="ymr22" /> </p>
 
