@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ymr22&theme=rose_pine&show_icons=true&locale=en&layout=compact" alt="ymr22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ymr22&theme=rose_pine&show_icons=true&locale=en" alt="ymr22" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ymr22&theme=rose_pine&" alt="ymr22" /></p>
