@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ymr22&label=Profile%20views&color=blueviolet&style=flat" alt="ymr22" /> </p>
 
-- 🌱 I’m currently learning **Qiskit**
+- 🌱 I’m currently learning **Qiskit, AWS**
 
 - 💬 Ask me about **Java, C#, ReactJs**
 
